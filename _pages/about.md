@@ -50,12 +50,12 @@ The improvement of data selection method in data-driven model predictive control
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Input-mapping based data-driven distributed model predictive control for linear systems with unknown state coupling (work in progress)
+Input-mapping based data-driven distributed model predictive control for unknown linear systems with unknown state coupling (work in progress)
 <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
 **Yixuan Ni**, Aoyun Ma, Dewei Li
 
-- A novel data selection method is specifically designed for data-driven model predictive control of uncertain systems. A controller performance evaluation approach is introduced to enable the controller to select a set of informative data elements that enhance its performance. Additionally, a sliding window mechanism is implemented to compare current data against historical data, preventing the loss of significant patterns or trends. 
+- An input-mapping based data-driven distributed MPC approach is designed for unknown linear systems, where each subsystem is coupled with the states of other subsystems, and the coupling matrices are unknown but bounded. By using a linear combination of the historical data of the subsystem and its neighbor at past moments, the future input and state can be predicted. The input-mapping data-driven scheme is combined with distributed MPC approach to stabilize the linear system with unknown state coupling.
 </div>
 </div>
 
@@ -75,4 +75,4 @@ Input-mapping based data-driven distributed model predictive control for linear 
 - *2018.09 - 2022.06*, Undergraduate, Automation, Beijing Institute of Technology, Beijing. 
 
 # 💬 Experiences
-- *2024.02 - 2024.06*, Teaching Assistant for the course 'Model Predictive Control', Shanghai Jiao Tong University, Shanghai.
+- *2024.02 - 2024.06*, **teaching assistant** for the course 'Model Predictive Control', Shanghai Jiao Tong University, Shanghai.
