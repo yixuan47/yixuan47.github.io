@@ -35,21 +35,30 @@ My research interest includes data-driven techniques, robust control, model pred
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[The improvement of data selection method in data-driven model predictive control of uncertain systems]
+<!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yixuan Ni**, Aoyun Ma, Dewei Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A novel data selection method is specifically designed for data-driven model predictive control of uncertain systems. A controller performance evaluation approach is introduced to enable the controller to select a set of informative data elements that enhance its performance. Additionally, a sliding window mechanism is implemented to compare current data against historical data, preventing the loss of significant patterns or trends. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[The improvement of data selection method in data-driven model predictive control of uncertain systems]
+<!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
-# 💻 Internships
+**Yixuan Ni**, Aoyun Ma, Dewei Li
+
+- A novel data selection method is specifically designed for data-driven model predictive control of uncertain systems. A controller performance evaluation approach is introduced to enable the controller to select a set of informative data elements that enhance its performance. Additionally, a sliding window mechanism is implemented to compare current data against historical data, preventing the loss of significant patterns or trends. 
+</div>
+</div>
+
+# 💻 Projects
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
@@ -64,6 +73,6 @@ My research interest includes data-driven techniques, robust control, model pred
 - *2022.09 - 2025.03 (now)*, Master, Control Engineering, Shanghai Jiao Tong University, Shanghai. 
 - *2018.09 - 2022.06*, Undergraduate, Automation, Beijing Institute of Technology, Beijing. 
 
-# 💬 Invited Talks
+# 💬 Experiences
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
