@@ -60,8 +60,7 @@ Input-mapping based data-driven distributed model predictive control for unknown
 </div>
 
 # 💻 Projects
-- *2019.05 - 2020.02*, Distributed Process Control Software Development
-- 
+- *2024.04 - 2024.08*, Distributed Process Control Software Development
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
