@@ -38,7 +38,7 @@ My research interest includes data-driven techniques, robust control, model pred
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The improvement of data selection method in data-driven model predictive control of uncertain systems]
+The improvement of data selection method in data-driven model predictive control of uncertain systems
 <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
 **Yixuan Ni**, Aoyun Ma, Dewei Li
@@ -47,9 +47,10 @@ My research interest includes data-driven techniques, robust control, model pred
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[The improvement of data selection method in data-driven model predictive control of uncertain systems]
+  
+Input-mapping based data-driven distributed model predictive control for linear systems with unknown state coupling (work in progress)
 <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
 **Yixuan Ni**, Aoyun Ma, Dewei Li
@@ -70,9 +71,8 @@ My research interest includes data-driven techniques, robust control, model pred
 - *2020.12* Chinese National College Computer Competition.(Third Prize) 
 
 # 📖 Educations
-- *2022.09 - 2025.03 (now)*, Master, Control Engineering, Shanghai Jiao Tong University, Shanghai. 
+- *2022.09 - 2025.03 (now)*, Master, Control Engineering, Shanghai Jiao Tong University, Shanghai.
 - *2018.09 - 2022.06*, Undergraduate, Automation, Beijing Institute of Technology, Beijing. 
 
 # 💬 Experiences
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.02 - 2024.06*, Teaching Assistant for the course 'Model Predictive Control', Shanghai Jiao Tong University, Shanghai.
