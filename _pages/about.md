@@ -35,7 +35,7 @@ My research interest includes data-driven techniques, robust control, model pred
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2024</div><img src='images/publication1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 The improvement of data selection method in data-driven model predictive control of uncertain systems
@@ -60,7 +60,16 @@ Input-mapping based data-driven distributed model predictive control for unknown
 </div>
 
 # 💻 Projects
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, Distributed Process Control Software Development
+- 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Tools: Qt, C++, Python
+- Developed a configuration interface, allowing the setup of model parameters, system constraints, and coupling relationships for large-scale systems.
+- Implemented drag-and-drop functionality to configure subsystems, enhancing the software's usability for managing interconnected processes.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
