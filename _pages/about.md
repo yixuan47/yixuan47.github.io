@@ -29,8 +29,9 @@ My research interest includes data-driven techniques, robust control, model pred
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp; I have a paper accepted by CAC!🎉 
+- *2022.02*: &nbsp; I receive the "Outstanding Poster Paper Award" from CPCC!😆
+- *2022.06*: &nbsp; I graduate from BIT and will begin study at SJTU!🎓
 
 # 📝 Publications 
 
@@ -48,17 +49,21 @@ My research interest includes data-driven techniques, robust control, model pred
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07* Outstanding Poster Paper Award.(Top3%) 
+- *2023.12* Engineering Award. 
+- *2023.11* Outstanding Student Award.(Top3%)
+- *2023.09* First Prize Academic Scholarship.
+- *2020.12* Chinese National College Computer Competition.(Third Prize) 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.03 (now)*, Master, Control Engineering, Shanghai Jiao Tong University, Shanghai. 
+- *2018.09 - 2022.06*, Undergraduate, Automation, Beijing Institute of Technology, Beijing. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
