@@ -27,7 +27,7 @@ I won the Outstanding Student Award(Top 3%) and First Prize Academic Scholarship
 
 My research interest includes data-driven techniques, robust control, model predictive control, distributed optimization, machine learning, and decision-making.
 
-📧Please feel free to contact me for collaborations or inquiries: [niyixuan@sjtu.edu.com](mailto:niyixuan@sjtu.edu.com).
+📧Please feel free to contact me for any inquiries or further information: [niyixuan@sjtu.edu.com](mailto:niyixuan@sjtu.edu.com).
 
 
 # 🔥 News
