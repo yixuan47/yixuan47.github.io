@@ -19,7 +19,7 @@ redirect_from:
 
 I am a master student majoring in Control Engineering at Shanghai Jiao Tong University, with an anticipated graduation in March 2025.
 
-I graduated from the Department of Automation, Beijing Institute of Technology with a bachelor’s degree. I am now pursuing a master’s degree in the Department of Electrical engineering and technology at Shanghai Jiao Tong University, advised by Dewei Li.
+I graduated from the Department of Automation, Beijing Institute of Technology with a bachelor’s degree. I am now pursuing a master’s degree in the Department of Electrical engineering and technology at Shanghai Jiao Tong University, advised by [Dewei Li](https://automation.sjtu.edu.cn/De-Wei).
 
 I am now researching data-driven model predictive control for uncertain systems and working on developing various industrial control software.
 
