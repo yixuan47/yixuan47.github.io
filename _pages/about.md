@@ -47,7 +47,7 @@ The improvement of data selection method in data-driven model predictive control
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Input-mapping based data-driven distributed model predictive control for unknown linear systems with unknown state coupling (work in progress)
