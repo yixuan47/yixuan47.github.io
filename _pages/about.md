@@ -19,6 +19,8 @@ redirect_from:
 
 I am a master student majoring in Control Engineering at Shanghai Jiao Tong University, with an anticipated graduation in March 2025.
 
+I graduated from the Department of Automation, Beijing Institute of Technology with a bachelor’s degree. I am now pursuing a master’s degree in the Department of Electrical engineering and technology at Shanghai Jiao Tong University, advised by Dewei Li.
+
 I am now researching data-driven model predictive control for uncertain systems and working on developing various industrial control software.
 
 I won the Outstanding Student Award(Top 3%) and First Prize Academic Scholarship in 2023 at SJTU and received the Outstanding Poster Paper Award from the Chinese Process Paper Congress in 2024(Top 3%).
@@ -72,9 +74,9 @@ Tools: Qt, C++, Python
 
 
 # 🎖 Honors and Awards
-- *2024.07* Outstanding Poster Paper Award.(Top3%) 
+- *2024.07* Outstanding Poster Paper Award.(Top 3%) 
 - *2023.12* Engineering Award. 
-- *2023.11* Outstanding Student Award.(Top3%)
+- *2023.11* Outstanding Student Award.(Top 3%)
 - *2023.09* First Prize Academic Scholarship.
 - *2020.12* Chinese National College Computer Competition.(Third Prize) 
 
