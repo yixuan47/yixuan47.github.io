@@ -40,7 +40,7 @@ My research interest includes data-driven techniques, robust control, model pred
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2024</div><img src='images/publication1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://github.com/yixuan47/yixuan47.github.io/blob/main/images/2024CAC_data%20selection%20method.pdf" target="_blank">The improvement of data selection method in data-driven model predictive control of uncertain systems</a>
+<a href="https://yixuan47.github.io/images/2024CAC_data%20selection%20method.pdf" target="_blank">The improvement of data selection method in data-driven model predictive control of uncertain systems</a>
 
 **Yixuan Ni**, Aoyun Ma, Dewei Li
 
@@ -51,7 +51,7 @@ My research interest includes data-driven techniques, robust control, model pred
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://github.com/yixuan47/yixuan47.github.io/blob/main/images/2024CAC_data%20selection%20method.pdf" target="_blank">Implementation Algorithms And Software Design Of Data-driven Model Predictive Control (master's thesis)</a>
+<a href="https://yixuan47.github.io/images/2024CAC_data%20selection%20method.pdf" target="_blank">Implementation Algorithms And Software Design Of Data-driven Model Predictive Control (master's thesis)</a>
 
 **Yixuan Ni**, under the supervision of Dewei Li
 
