@@ -41,21 +41,21 @@ My research interest includes data-driven techniques, robust control, model pred
 <div class='paper-box-text' markdown="1">
 
 The improvement of data selection method in data-driven model predictive control of uncertain systems
-<!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
+<--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
 **Yixuan Ni**, Aoyun Ma, Dewei Li
 
-- A novel data selection method is specifically designed for data-driven model predictive control of uncertain systems. A controller performance evaluation approach is introduced to enable the controller to select a set of informative data elements that enhance its performance. Additionally, a sliding window mechanism is implemented to compare current data against historical data, preventing the loss of significant patterns or trends. 
+- For unknown constrained systems with bounded disturbances, an input-mapping-based data-driven MPC with a data selection method is proposed. Based on multi-step data-driven MPC, a fully data-driven controller performance metric is designed. By incorporating a sliding window mechanism, the method selects data that effectively represents the system's characteristics, thereby improving system control performance. The recursive feasibility and asymptotic stability are proven and a simulation result demonstrates the superior control performance of the proposed algorithm compared to existing approaches. Moreover, the algorithm uses online historical input and state data to design control input sequences and predict future states, without the need for system parameter identification.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Input-mapping based data-driven distributed model predictive control for unknown linear systems with unknown state coupling (work in progress)
+Implementation Algorithms And Software Design Of Data-driven Model Predictive Control (master's thesis)
 <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
-**Yixuan Ni**, Aoyun Ma, Dewei Li
+**Yixuan Ni**, under the supervision of Dewei Li
 
 - An input-mapping based data-driven distributed MPC approach is designed for unknown linear systems, where each subsystem is coupled with the states of other subsystems, and the coupling matrices are unknown but bounded. By using a linear combination of the historical data of the subsystem and its neighbor at past moments, the future input and state can be predicted. The input-mapping data-driven scheme is combined with distributed MPC approach to stabilize the linear system with unknown state coupling.
 </div>
