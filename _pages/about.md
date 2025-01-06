@@ -31,8 +31,8 @@ My research interest includes data-driven techniques, robust control, model pred
 
 
 # 🔥 News
-- *2022.02*: &nbsp; I have a paper accepted by CAC!🎉 
-- *2022.02*: &nbsp; I receive the "Outstanding Poster Paper Award" from CPCC!😆
+- *2024.09*: &nbsp; I have a paper accepted by CAC!🎉 
+- *2024.08*: &nbsp; I receive the "Outstanding Poster Paper Award" from CPCC!😆
 - *2022.06*: &nbsp; I graduate from BIT and will begin study at SJTU!🎓
 
 # 📝 Publications 
@@ -41,7 +41,6 @@ My research interest includes data-driven techniques, robust control, model pred
 <div class='paper-box-text' markdown="1">
 
 The improvement of data selection method in data-driven model predictive control of uncertain systems
-<--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
 
 **Yixuan Ni**, Aoyun Ma, Dewei Li
 
