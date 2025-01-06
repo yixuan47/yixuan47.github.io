@@ -50,13 +50,12 @@ My research interest includes data-driven techniques, robust control, model pred
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-Implementation Algorithms And Software Design Of Data-driven Model Predictive Control (master's thesis)
-<!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
+
+<a href="https://github.com/yixuan47/yixuan47.github.io/blob/main/images/2024CAC_data%20selection%20method.pdf" target="_blank">Implementation Algorithms And Software Design Of Data-driven Model Predictive Control (master's thesis)</a>
 
 **Yixuan Ni**, under the supervision of Dewei Li
 
-- An input-mapping based data-driven distributed MPC approach is designed for unknown linear systems, where each subsystem is coupled with the states of other subsystems, and the coupling matrices are unknown but bounded. By using a linear combination of the historical data of the subsystem and its neighbor at past moments, the future input and state can be predicted. The input-mapping data-driven scheme is combined with distributed MPC approach to stabilize the linear system with unknown state coupling.
+- With the rapid development of technology, modern industrial systems have reached unprecedented levels of complexity and diversity. System scales are continually expanding, internal mechanisms are becoming increasingly intricate, and the dynamic interactions and dependencies among variables are growing more complicated. This complexity poses significant challenges to accurately constructing control system models. Moreover, model inaccuracies often result in the degradation of control performance and the reduction of stability. To address these challenges, data-driven model predictive control (MPC) has become increasingly important. By utilizing  historical data to design control strategies, data-driven MPC reduces dependence on precise mathematical models, significantly improves system robustness, and effectively addresses the challenges posed by complexity and uncertainty. To combine theoretical innovations with practical application, this dissertation focuses on the implementation algorithms of data-driven MPC to address issues such as poor data quality, uncertain disturbances, and model mismatches within systems. Additionally, a distributed advanced MPC software has been developed. By integrating theory with practice, the study demonstrates the potential of data-driven MPC in real-world industrial environments.
 </div>
 </div>
 
