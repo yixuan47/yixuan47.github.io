@@ -40,11 +40,7 @@ My research interest includes data-driven techniques, robust control, model pred
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2024</div><img src='images/publication1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-The improvement of data selection method in data-driven model predictive control of uncertain systems
-
-<a href="[https://github.com/your-username/your-repository-name/raw/main/papers/your-paper.pdf](https://github.com/yixuan47/yixuan47.github.io/blob/main/images/2024CAC_data%20selection%20method.pdf)" target="_blank">The improvement of data selection method in data-driven model predictive control of uncertain systems</a>
-
-
+<a href="https://github.com/yixuan47/yixuan47.github.io/blob/main/images/2024CAC_data%20selection%20method.pdf" target="_blank">The improvement of data selection method in data-driven model predictive control of uncertain systems</a>
 
 **Yixuan Ni**, Aoyun Ma, Dewei Li
 
