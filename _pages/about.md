@@ -42,6 +42,10 @@ My research interest includes data-driven techniques, robust control, model pred
 
 The improvement of data selection method in data-driven model predictive control of uncertain systems
 
+<a href="[https://github.com/your-username/your-repository-name/raw/main/papers/your-paper.pdf](https://github.com/yixuan47/yixuan47.github.io/blob/main/images/2024CAC_data%20selection%20method.pdf)" target="_blank">The improvement of data selection method in data-driven model predictive control of uncertain systems</a>
+
+
+
 **Yixuan Ni**, Aoyun Ma, Dewei Li
 
 - For unknown constrained systems with bounded disturbances, an input-mapping-based data-driven MPC with a data selection method is proposed. Based on multi-step data-driven MPC, a fully data-driven controller performance metric is designed. By incorporating a sliding window mechanism, the method selects data that effectively represents the system's characteristics, thereby improving system control performance. The recursive feasibility and asymptotic stability are proven and a simulation result demonstrates the superior control performance of the proposed algorithm compared to existing approaches. Moreover, the algorithm uses online historical input and state data to design control input sequences and predict future states, without the need for system parameter identification.
